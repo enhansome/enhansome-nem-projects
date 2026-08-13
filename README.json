@@ -1,0 +1,384 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PacNEM",
+          "description": "Check Source - Free & Open Source Node.js Autonomous Game using the NEM blockchain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-09T15:19:17Z",
+            "owner": "evias",
+            "repo": "pacNEM",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NEMonster",
+          "description": "A witty little collection game based on the NEM blockchain..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-10T16:16:25Z",
+            "owner": "aenima86",
+            "repo": "NEMonster",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Gaming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NEM DNS",
+          "description": "Check Source - Decentralized, censorship free and updatable DNS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-07T10:07:33Z",
+            "owner": "aenima86",
+            "repo": "NEM-DNS",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NEM Microwallet",
+          "description": "Check Source - Simple and easy to use wallet in Chrome.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-07-17T05:46:38Z",
+            "owner": "anrodon",
+            "repo": "nem-microwallet",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Blockstart token sale api",
+          "description": "This repo provides all of the code needed to operate a token sale on the NEM blockchain (api).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-06-12T02:04:53Z",
+            "owner": "blockstart",
+            "repo": "nem-coinbase-token-sale-api",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NEM Trezor Standalone",
+          "description": "Offline tool for recovering NEM private keys from BIP39 mnemonics and importing them into NanoWallet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-01-15T19:05:45Z",
+            "owner": "saleemrashid",
+            "repo": "nem-trezor-standalone",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blockstart token sale web",
+          "description": "This repo provides all of the code needed to operate a token sale on the NEM blockchain (website).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-06-28T18:03:30Z",
+            "owner": "blockstart",
+            "repo": "nem-coinbase-token-sale-website",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nagit",
+          "description": "NEM API Graphical Interactive Tool for testing REST APIs calling NIS Nodes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-15T09:13:14Z",
+            "owner": "ccastromar",
+            "repo": "nagit",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XEMSign",
+          "description": "Simple bot for signing XEM multisignature transactions with optional signing rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-11-12T05:46:44Z",
+            "owner": "kodty",
+            "repo": "MultisigTransactionSigner",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NEM Authenticator",
+          "description": "100% decentralized 2 Factor Confirmation system to secure your account assets from being stolen using the NEM Blockchain native features.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "NEM ICO Project",
+          "description": "Collaborative project that shows a working project of \"How to create a ICO with NEM Blockchain\".",
+          "children": []
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NanoWallet",
+          "description": "Official NEM Wallet.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-02-08T18:58:31Z",
+            "owner": "NemProject",
+            "repo": "NanoWallet",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CacheWallet",
+          "description": "The official cross platform wallet for the Cache cryptocurrency.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-06-21T18:58:42Z",
+            "owner": "cache-official",
+            "repo": "cache-wallet",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RaccoonWallet",
+          "description": "NEM Mobile Wallet app developed in Japan aiming for the easiest ease of use in the world.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2018-12-16T15:57:10Z",
+            "owner": "SasakiYuki",
+            "repo": "RaccoonWallet",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Wallets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-25T22:49:00Z",
+            "owner": "QuantumMechanics",
+            "repo": "NEM-sdk",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-03-29T09:27:40Z",
+            "owner": "evias",
+            "repo": "nem-php",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2018-05-21T14:05:57Z",
+            "owner": "nem-toolchain",
+            "repo": "nem-toolchain",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2018-01-01T02:09:36Z",
+            "owner": "44uk",
+            "repo": "nis-ruby",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-12-27T12:30:51Z",
+            "owner": "namuyan",
+            "repo": "nem-python",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Java",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-08-06T04:02:59Z",
+            "owner": "NEMPH",
+            "repo": "nem-apps-lib",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-12-26T19:52:29Z",
+            "owner": "semolex",
+            "repo": "nis-python-client",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2018-09-27T13:48:15Z",
+            "owner": "namuyan",
+            "repo": "NEM-Api-Library",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Java",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-03-27T12:37:58Z",
+            "owner": "rosklyar",
+            "repo": "nem-library",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-08-05T09:23:03Z",
+            "owner": "tomotomo9696",
+            "repo": "NEMTools_PHP",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C#",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Node.js",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Wrappers"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "If you like this list, please feel free to send me a tip. My NEM address is in my profile, thanks!",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:12:03.622Z",
+    "original_repository": "Sateetje/awesome-nem-projects",
+    "original_repository_sha": "dfe4c6c31f253668d9cb1f6c4692b036f18470d8",
+    "enhanced_repository": "enhansome/enhansome-nem-projects",
+    "enhanced_repository_description": null,
+    "title": "Awesome NEM Projects with stars"
+  }
+}
