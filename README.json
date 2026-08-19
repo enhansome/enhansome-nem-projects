@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85640212,
             "language": "JavaScript",
             "last_commit": "2026-06-09T15:19:17Z",
             "owner": "evias",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144307475,
             "language": "JavaScript",
             "last_commit": "2018-08-10T16:16:25Z",
             "owner": "aenima86",
@@ -35,7 +37,7 @@
       "title": "Gaming"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125704101,
             "language": "JavaScript",
             "last_commit": "2018-11-07T10:07:33Z",
             "owner": "aenima86",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 97339011,
             "language": "JavaScript",
             "last_commit": "2026-07-17T05:46:38Z",
             "owner": "anrodon",
@@ -69,7 +73,7 @@
       "title": "Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -78,6 +82,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136993748,
             "language": "TypeScript",
             "last_commit": "2018-06-12T02:04:53Z",
             "owner": "blockstart",
@@ -92,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116042080,
             "language": "HTML",
             "last_commit": "2018-01-15T19:05:45Z",
             "owner": "saleemrashid",
@@ -106,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139047697,
             "language": "TypeScript",
             "last_commit": "2018-06-28T18:03:30Z",
             "owner": "blockstart",
@@ -120,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154631045,
             "language": "JavaScript",
             "last_commit": "2019-04-15T09:13:14Z",
             "owner": "ccastromar",
@@ -134,30 +142,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92865640,
             "language": "C#",
             "last_commit": "2017-11-12T05:46:44Z",
             "owner": "kodty",
             "repo": "MultisigTransactionSigner",
             "stars": 3
           }
-        },
-        {
-          "node_type": "item",
-          "title": "NEM Authenticator",
-          "description": "100% decentralized 2 Factor Confirmation system to secure your account assets from being stolen using the NEM Blockchain native features.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "NEM ICO Project",
-          "description": "Collaborative project that shows a working project of \"How to create a ICO with NEM Blockchain\".",
-          "children": []
         }
       ],
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -166,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 72261051,
             "language": "JavaScript",
             "last_commit": "2023-02-08T18:58:31Z",
             "owner": "NemProject",
@@ -180,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134469827,
             "language": "JavaScript",
             "last_commit": "2018-06-21T18:58:42Z",
             "owner": "cache-official",
@@ -194,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134728286,
             "language": "Kotlin",
             "last_commit": "2018-12-16T15:57:10Z",
             "owner": "SasakiYuki",
@@ -205,7 +205,7 @@
       "title": "Wallets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -214,6 +214,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86482165,
             "language": "JavaScript",
             "last_commit": "2023-10-25T22:49:00Z",
             "owner": "QuantumMechanics",
@@ -228,6 +229,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80902864,
             "language": "PHP",
             "last_commit": "2022-03-29T09:27:40Z",
             "owner": "evias",
@@ -242,6 +244,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103447423,
             "language": "Go",
             "last_commit": "2018-05-21T14:05:57Z",
             "owner": "nem-toolchain",
@@ -256,6 +259,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86005886,
             "language": "Ruby",
             "last_commit": "2018-01-01T02:09:36Z",
             "owner": "44uk",
@@ -270,6 +274,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 118862209,
             "language": "Python",
             "last_commit": "2018-12-27T12:30:51Z",
             "owner": "namuyan",
@@ -284,6 +289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100636215,
             "language": "Java",
             "last_commit": "2018-08-06T04:02:59Z",
             "owner": "NEMPH",
@@ -298,6 +304,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 114356348,
             "language": "Python",
             "last_commit": "2018-12-26T19:52:29Z",
             "owner": "semolex",
@@ -312,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 78317784,
             "language": "PHP",
             "last_commit": "2018-09-27T13:48:15Z",
             "owner": "namuyan",
@@ -326,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122729576,
             "language": "Java",
             "last_commit": "2018-03-27T12:37:58Z",
             "owner": "rosklyar",
@@ -340,42 +349,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78333731,
             "language": "PHP",
             "last_commit": "2018-08-05T09:23:03Z",
             "owner": "tomotomo9696",
             "repo": "NEMTools_PHP",
             "stars": 5
           }
-        },
-        {
-          "node_type": "item",
-          "title": "C#",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Node.js",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Wrappers"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "If you like this list, please feel free to send me a tip. My NEM address is in my profile, thanks!",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:56:14.365Z",
+    "last_updated": "2026-08-19T12:42:39.280Z",
     "original_repository": "Sateetje/awesome-nem-projects",
+    "original_repository_id": 115403084,
     "original_repository_sha": "dfe4c6c31f253668d9cb1f6c4692b036f18470d8",
     "enhanced_repository": "enhansome/enhansome-nem-projects",
     "enhanced_repository_description": null,
