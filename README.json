@@ -362,9 +362,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T15:55:20.896Z",
-    "original_repository": "Sateetje/awesome-nem-projects",
-    "original_repository_id": 115403084,
+    "last_updated": "2026-08-27T11:54:27.403Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 115403084,
+      "language": null,
+      "last_commit": "2019-02-26T19:10:29Z",
+      "owner": "Sateetje",
+      "repo": "awesome-nem-projects",
+      "stars": 63
+    },
     "original_repository_sha": "dfe4c6c31f253668d9cb1f6c4692b036f18470d8",
     "enhanced_repository": "enhansome/enhansome-nem-projects",
     "enhanced_repository_description": null,
