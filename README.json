@@ -16,7 +16,8 @@
             "owner": "evias",
             "repo": "pacNEM",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "aenima86",
             "repo": "NEMonster",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         }
       ],
       "title": "Gaming"
@@ -52,7 +54,8 @@
             "owner": "aenima86",
             "repo": "NEM-DNS",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "anrodon",
             "repo": "nem-microwallet",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         }
       ],
       "title": "Plugins"
@@ -88,7 +92,8 @@
             "owner": "blockstart",
             "repo": "nem-coinbase-token-sale-api",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "saleemrashid",
             "repo": "nem-trezor-standalone",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "blockstart",
             "repo": "nem-coinbase-token-sale-website",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "ccastromar",
             "repo": "nagit",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "kodty",
             "repo": "MultisigTransactionSigner",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         }
       ],
       "title": "Tools"
@@ -169,7 +178,8 @@
             "owner": "NemProject",
             "repo": "NanoWallet",
             "stars": 289
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         },
         {
           "node_type": "item",
@@ -184,7 +194,8 @@
             "owner": "cache-official",
             "repo": "cache-wallet",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "SasakiYuki",
             "repo": "RaccoonWallet",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         }
       ],
       "title": "Wallets"
@@ -220,7 +232,8 @@
             "owner": "QuantumMechanics",
             "repo": "NEM-sdk",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         },
         {
           "node_type": "item",
@@ -235,7 +248,8 @@
             "owner": "evias",
             "repo": "nem-php",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         },
         {
           "node_type": "item",
@@ -250,7 +264,8 @@
             "owner": "nem-toolchain",
             "repo": "nem-toolchain",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         },
         {
           "node_type": "item",
@@ -265,7 +280,8 @@
             "owner": "44uk",
             "repo": "nis-ruby",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         },
         {
           "node_type": "item",
@@ -280,7 +296,8 @@
             "owner": "namuyan",
             "repo": "nem-python",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         },
         {
           "node_type": "item",
@@ -295,7 +312,8 @@
             "owner": "NEMPH",
             "repo": "nem-apps-lib",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         },
         {
           "node_type": "item",
@@ -310,7 +328,8 @@
             "owner": "semolex",
             "repo": "nis-python-client",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         },
         {
           "node_type": "item",
@@ -325,7 +344,8 @@
             "owner": "namuyan",
             "repo": "NEM-Api-Library",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         },
         {
           "node_type": "item",
@@ -340,7 +360,8 @@
             "owner": "rosklyar",
             "repo": "nem-library",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         },
         {
           "node_type": "item",
@@ -355,14 +376,15 @@
             "owner": "tomotomo9696",
             "repo": "NEMTools_PHP",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
         }
       ],
       "title": "Wrappers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:49:21.825Z",
+    "last_updated": "2026-08-28T23:34:58.569Z",
     "original_repository_info": {
       "archived": false,
       "id": 115403084,
