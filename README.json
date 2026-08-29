@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pacNEM is a Browser PacMan game with NodeJS, Socket.io, Handlebars and NEM Blockchain",
+            "homepage": null,
             "id": 85640212,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-09T15:19:17Z",
+            "open_issues": 1,
             "owner": "evias",
             "repo": "pacNEM",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "blockchain-technology",
+              "handlebars",
+              "nem",
+              "nem-blockchain",
+              "node-js",
+              "pacman",
+              "pacman-game",
+              "socket-io"
+            ]
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         },
@@ -26,12 +40,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 144307475,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-08-10T16:16:25Z",
+            "open_issues": 0,
             "owner": "aenima86",
             "repo": "NEMonster",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         }
@@ -48,12 +67,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NEM blockchain DNS",
+            "homepage": null,
             "id": 125704101,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-11-07T10:07:33Z",
+            "open_issues": 1,
             "owner": "aenima86",
             "repo": "NEM-DNS",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         },
@@ -64,12 +88,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "NEM Blockchain Chrome Extension wallet",
+            "homepage": null,
             "id": 97339011,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-17T05:46:38Z",
+            "open_issues": 15,
             "owner": "anrodon",
             "repo": "nem-microwallet",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         }
@@ -86,12 +115,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "API for NEM Token Sale or ICO - Accepts Coinbase and XEM",
+            "homepage": "https://getcache.io",
             "id": 136993748,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-06-12T02:04:53Z",
+            "open_issues": 0,
             "owner": "blockstart",
             "repo": "nem-coinbase-token-sale-api",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "bitcoin",
+              "blockchain",
+              "cache",
+              "coinbase",
+              "ethereum",
+              "ico",
+              "litecoin",
+              "nem",
+              "nodejs",
+              "token-sale",
+              "typescript",
+              "xem"
+            ]
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         },
@@ -102,12 +149,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Offline tool for recovering NEM private keys from BIP39 mnemonics and importing them into NanoWallet",
+            "homepage": "https://saleemrashid.github.io/nem-trezor-standalone/",
             "id": 116042080,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2018-01-15T19:05:45Z",
+            "open_issues": 0,
             "owner": "saleemrashid",
             "repo": "nem-trezor-standalone",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         },
@@ -118,12 +170,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Website for NEM Token Sale or ICO - Accepts XEM LTC BTC BCH ETH",
+            "homepage": "https://getcache.io",
             "id": 139047697,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2018-06-28T18:03:30Z",
+            "open_issues": 1,
             "owner": "blockstart",
             "repo": "nem-coinbase-token-sale-website",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "angular",
+              "blockchain",
+              "cryptocurrency",
+              "ico",
+              "kyc",
+              "nem"
+            ]
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         },
@@ -134,12 +198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NEM API Examples for learning and testing",
+            "homepage": null,
             "id": 154631045,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-04-15T09:13:14Z",
+            "open_issues": 2,
             "owner": "ccastromar",
             "repo": "nagit",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         },
@@ -150,12 +219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple bot for signing XEM multisignature transactions with optional signing rules.",
+            "homepage": null,
             "id": 92865640,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2017-11-12T05:46:44Z",
+            "open_issues": 0,
             "owner": "kodty",
             "repo": "MultisigTransactionSigner",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         }
@@ -172,12 +246,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "👛",
+            "homepage": null,
             "id": 72261051,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-02-08T18:58:31Z",
+            "open_issues": 92,
             "owner": "NemProject",
             "repo": "NanoWallet",
-            "stars": 289
+            "stars": 289,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         },
@@ -188,12 +267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official cross platform wallet for the Cache cryptocurrency",
+            "homepage": null,
             "id": 134469827,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-06-21T18:58:42Z",
+            "open_issues": 2,
             "owner": "cache-official",
             "repo": "cache-wallet",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         },
@@ -204,12 +288,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 134728286,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2018-12-16T15:57:10Z",
+            "open_issues": 32,
             "owner": "SasakiYuki",
             "repo": "RaccoonWallet",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         }
@@ -226,12 +315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " NEM Developer Kit for Node.js and the browser",
+            "homepage": null,
             "id": 86482165,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-10-25T22:49:00Z",
+            "open_issues": 33,
             "owner": "QuantumMechanics",
             "repo": "NEM-sdk",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         },
@@ -242,12 +336,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NEM Blockchain NIS API Wrapper and Software Development Kit for PHP",
+            "homepage": "https://docs.nem.io",
             "id": 80902864,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-03-29T09:27:40Z",
+            "open_issues": 4,
             "owner": "evias",
             "repo": "nem-php",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "api-wrapper",
+              "composer",
+              "laravel",
+              "nem",
+              "nem-blockchain",
+              "php",
+              "travis-ci"
+            ]
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         },
@@ -258,12 +365,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command line toolchain for NEM blockchain",
+            "homepage": "https://git.io/nemtool",
             "id": 103447423,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2018-05-21T14:05:57Z",
+            "open_issues": 16,
             "owner": "nem-toolchain",
             "repo": "nem-toolchain",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "blockchain",
+              "cli",
+              "golang",
+              "nem",
+              "toolchain"
+            ]
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         },
@@ -274,12 +392,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby client library for the NEM Infrastructure Server API",
+            "homepage": "https://44uk.github.io/nis-ruby/",
             "id": 86005886,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2018-01-01T02:09:36Z",
+            "open_issues": 0,
             "owner": "44uk",
             "repo": "nis-ruby",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         },
@@ -290,12 +413,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "NEM(NIS1) simple library of Python3",
+            "homepage": null,
             "id": 118862209,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-12-27T12:30:51Z",
+            "open_issues": 1,
             "owner": "namuyan",
             "repo": "nem-python",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         },
@@ -306,12 +434,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Semantic Java API Library for NEM Platform",
+            "homepage": null,
             "id": 100636215,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2018-08-06T04:02:59Z",
+            "open_issues": 10,
             "owner": "NEMPH",
             "repo": "nem-apps-lib",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "callback",
+              "fee",
+              "fee-calculation",
+              "mosaic",
+              "multisigsignedtransactions",
+              "multsig",
+              "nem",
+              "nem-blockchain",
+              "payload",
+              "transaction",
+              "transactions"
+            ]
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         },
@@ -322,12 +467,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Python client for NEM NIS API (https://nemproject.github.io). XEM\\NEM\\Crypto",
+            "homepage": null,
             "id": 114356348,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-12-26T19:52:29Z",
+            "open_issues": 2,
             "owner": "semolex",
             "repo": "nis-python-client",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "api-client",
+              "blockchain",
+              "blockchain-technology",
+              "cryptocurrency",
+              "currency",
+              "nem",
+              "nem-blockchain",
+              "nem-blockchain-platform",
+              "nis",
+              "python",
+              "xem"
+            ]
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         },
@@ -338,12 +500,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An convenient NIS1 API PHP Library",
+            "homepage": null,
             "id": 78317784,
             "language": "PHP",
+            "license": null,
             "last_commit": "2018-09-27T13:48:15Z",
+            "open_issues": 0,
             "owner": "namuyan",
             "repo": "NEM-Api-Library",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         },
@@ -354,12 +521,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "feign-based http client for working with NEM blockchain",
+            "homepage": null,
             "id": 122729576,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2018-03-27T12:37:58Z",
+            "open_issues": 2,
             "owner": "rosklyar",
             "repo": "nem-library",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "archaius",
+              "archaius-configuration",
+              "circuit-breaker",
+              "hystrix",
+              "java",
+              "kotlin",
+              "nem",
+              "nem-blockchain",
+              "ribbon",
+              "scala"
+            ]
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         },
@@ -370,12 +553,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 78333731,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-08-05T09:23:03Z",
+            "open_issues": 1,
             "owner": "tomotomo9696",
             "repo": "NEMTools_PHP",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         }
@@ -384,15 +572,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:34:58.569Z",
+    "last_updated": "2026-08-29T05:02:24.303Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of projects using the NEM blockchain",
+      "homepage": null,
       "id": 115403084,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2019-02-26T19:10:29Z",
+      "open_issues": 1,
       "owner": "Sateetje",
       "repo": "awesome-nem-projects",
-      "stars": 63
+      "stars": 63,
+      "topics": [
+        "applications",
+        "awesome",
+        "awesome-list",
+        "blockchain",
+        "blockchain-technology",
+        "nem",
+        "nem-blockchain",
+        "projects",
+        "xem"
+      ]
     },
     "original_repository_sha": "dfe4c6c31f253668d9cb1f6c4692b036f18470d8",
     "enhanced_repository": "enhansome/enhansome-nem-projects",
