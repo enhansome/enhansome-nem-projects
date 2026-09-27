@@ -255,7 +255,7 @@
             "open_issues": 92,
             "owner": "NemProject",
             "repo": "NanoWallet",
-            "stars": 289,
+            "stars": 288,
             "topics": []
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:48:02.354Z",
+    "last_updated": "2026-09-27T18:30:01.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects using the NEM blockchain",
