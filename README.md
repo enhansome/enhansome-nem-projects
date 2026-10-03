@@ -250,7 +250,7 @@
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](https://github.com/Sateetje/awesome-nem-projects/blob/master/contributing.md) ⭐ 63 | 🐛 1 | 📅 2019-02-26 first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/Sateetje/awesome-nem-projects/blob/master/contributing.md) first.
 
 ## License
 
@@ -260,4 +260,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/Sat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
