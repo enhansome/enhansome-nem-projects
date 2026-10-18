@@ -235,7 +235,7 @@
 ## Wrappers
 
 * [JavaScript](https://github.com/QuantumMechanics/NEM-sdk) ⭐ 131 | 🐛 33 | 🌐 JavaScript | 📅 2023-10-25
-* [PHP](https://github.com/evias/php-nem-laravel) ⭐ 33 | 🐛 4 | 🌐 PHP | 📅 2022-03-29
+* [PHP](https://github.com/evias/php-nem-laravel) ⭐ 34 | 🐛 4 | 🌐 PHP | 📅 2022-03-29
 * [Go](https://github.com/nem-toolchain/nem-toolchain) ⭐ 25 | 🐛 16 | 🌐 Go | 📅 2018-05-21
 * [Ruby](https://github.com/44uk/nis-ruby) ⭐ 18 | 🐛 0 | 🌐 Ruby | 📅 2018-01-01
 * [Python](https://github.com/namuyan/nem-python) ⚠️ Archived
@@ -260,4 +260,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/Sat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

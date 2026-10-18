@@ -345,7 +345,7 @@
             "open_issues": 4,
             "owner": "evias",
             "repo": "nem-php",
-            "stars": 33,
+            "stars": 34,
             "topics": [
               "api-wrapper",
               "composer",
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:17:39.939Z",
+    "last_updated": "2026-10-18T17:25:47.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects using the NEM blockchain",
