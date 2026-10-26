@@ -219,8 +219,8 @@
 * [Blockstart token sale api](https://github.com/blockstart/nem-coinbase-token-sale-api) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2018-06-12 - This repo provides all of the code needed to operate a token sale on the NEM blockchain (api).
 * [NEM Trezor Standalone](https://github.com/saleemrashid/nem-trezor-standalone/) ⭐ 13 | 🐛 0 | 🌐 HTML | 📅 2018-01-15 - Offline tool for recovering NEM private keys from BIP39 mnemonics and importing them into NanoWallet.
 * [Blockstart token sale web](https://github.com/blockstart/nem-coinbase-token-sale-website) ⭐ 11 | 🐛 1 | 🌐 TypeScript | 📅 2018-06-28 - This repo provides all of the code needed to operate a token sale on the NEM blockchain (website).
+* [XEMSign](https://github.com/kodty/MultisigTransactionSigner) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2017-11-12 - Simple bot for signing XEM multisignature transactions with optional signing rules.
 * [Nagit](https://github.com/ccastromar/nagit) ⭐ 4 | 🐛 2 | 🌐 JavaScript | 📅 2019-04-15 - NEM API Graphical Interactive Tool for testing REST APIs calling NIS Nodes.
-* [XEMSign](https://github.com/kodty/MultisigTransactionSigner) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2017-11-12 - Simple bot for signing XEM multisignature transactions with optional signing rules.
 * [NEM Address Generator](https://bitbucket.org/bad_weather_corp/nem_tools/src) - Generate an address which starts with xxxx and/or ends with xxxx.
 * [NEM Authenticator](https://github.com/aleixmorgadas/NEM-Authenticator) - 100% decentralized 2 Factor Confirmation system to secure your account assets from being stolen using the NEM Blockchain native features.
 * [NEM ICO Project](https://github.com/aleixmorgadas/nem-ico-project) - Collaborative project that shows a working project of "How to create a ICO with NEM Blockchain".
@@ -238,8 +238,8 @@
 * [PHP](https://github.com/evias/php-nem-laravel) ⭐ 34 | 🐛 4 | 🌐 PHP | 📅 2022-03-29
 * [Go](https://github.com/nem-toolchain/nem-toolchain) ⭐ 25 | 🐛 16 | 🌐 Go | 📅 2018-05-21
 * [Ruby](https://github.com/44uk/nis-ruby) ⭐ 18 | 🐛 0 | 🌐 Ruby | 📅 2018-01-01
-* [Python](https://github.com/namuyan/nem-python) ⚠️ Archived
 * [Java](https://github.com/NEMPH/nem-apps-lib) ⭐ 16 | 🐛 10 | 🌐 Java | 📅 2018-08-06
+* [Python](https://github.com/namuyan/nem-python) ⚠️ Archived
 * [Python](https://github.com/semolex/nis-python-client) ⚠️ Archived
 * [PHP](https://github.com/namuyan/NEM-Api-Library) ⚠️ Archived
 * [Java](https://github.com/rosklyar/nem-library) ⭐ 6 | 🐛 2 | 🌐 Java | 📅 2018-03-27
@@ -260,4 +260,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/Sat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._

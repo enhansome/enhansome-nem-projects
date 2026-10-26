@@ -193,6 +193,27 @@
         },
         {
           "node_type": "item",
+          "title": "XEMSign",
+          "description": "Simple bot for signing XEM multisignature transactions with optional signing rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A simple bot for signing XEM multisignature transactions with optional signing rules.",
+            "homepage": null,
+            "id": 92865640,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2017-11-12T05:46:44Z",
+            "open_issues": 0,
+            "owner": "kodty",
+            "repo": "MultisigTransactionSigner",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
+        },
+        {
+          "node_type": "item",
           "title": "Nagit",
           "description": "NEM API Graphical Interactive Tool for testing REST APIs calling NIS Nodes.",
           "children": [],
@@ -208,27 +229,6 @@
             "owner": "ccastromar",
             "repo": "nagit",
             "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:34:58.569Z"
-        },
-        {
-          "node_type": "item",
-          "title": "XEMSign",
-          "description": "Simple bot for signing XEM multisignature transactions with optional signing rules.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A simple bot for signing XEM multisignature transactions with optional signing rules.",
-            "homepage": null,
-            "id": 92865640,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2017-11-12T05:46:44Z",
-            "open_issues": 0,
-            "owner": "kodty",
-            "repo": "MultisigTransactionSigner",
-            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
@@ -408,27 +408,6 @@
         },
         {
           "node_type": "item",
-          "title": "Python",
-          "description": "namuyan/nem-python",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "NEM(NIS1) simple library of Python3",
-            "homepage": null,
-            "id": 118862209,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2018-12-27T12:30:51Z",
-            "open_issues": 1,
-            "owner": "namuyan",
-            "repo": "nem-python",
-            "stars": 17,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:34:58.569Z"
-        },
-        {
-          "node_type": "item",
           "title": "Java",
           "description": "NEMPH/nem-apps-lib",
           "children": [],
@@ -457,6 +436,27 @@
               "transaction",
               "transactions"
             ]
+          },
+          "first_seen": "2026-08-28T23:34:58.569Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Python",
+          "description": "namuyan/nem-python",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "NEM(NIS1) simple library of Python3",
+            "homepage": null,
+            "id": 118862209,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2018-12-27T12:30:51Z",
+            "open_issues": 1,
+            "owner": "namuyan",
+            "repo": "nem-python",
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:34:58.569Z"
         },
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:41:01.994Z",
+    "last_updated": "2026-10-26T19:59:25.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects using the NEM blockchain",
