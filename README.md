@@ -216,9 +216,9 @@
 
 ## Tools
 
-* [Blockstart token sale api](https://github.com/blockstart/nem-coinbase-token-sale-api) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2018-06-12 - This repo provides all of the code needed to operate a token sale on the NEM blockchain (api).
+* [Blockstart token sale api](https://github.com/blockstart/nem-coinbase-token-sale-api) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2018-06-12 - This repo provides all of the code needed to operate a token sale on the NEM blockchain (api).
 * [NEM Trezor Standalone](https://github.com/saleemrashid/nem-trezor-standalone/) ⭐ 13 | 🐛 0 | 🌐 HTML | 📅 2018-01-15 - Offline tool for recovering NEM private keys from BIP39 mnemonics and importing them into NanoWallet.
-* [Blockstart token sale web](https://github.com/blockstart/nem-coinbase-token-sale-website) ⭐ 11 | 🐛 1 | 🌐 TypeScript | 📅 2018-06-28 - This repo provides all of the code needed to operate a token sale on the NEM blockchain (website).
+* [Blockstart token sale web](https://github.com/blockstart/nem-coinbase-token-sale-website) ⭐ 10 | 🐛 1 | 🌐 TypeScript | 📅 2018-06-28 - This repo provides all of the code needed to operate a token sale on the NEM blockchain (website).
 * [XEMSign](https://github.com/kodty/MultisigTransactionSigner) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2017-11-12 - Simple bot for signing XEM multisignature transactions with optional signing rules.
 * [Nagit](https://github.com/ccastromar/nagit) ⭐ 4 | 🐛 2 | 🌐 JavaScript | 📅 2019-04-15 - NEM API Graphical Interactive Tool for testing REST APIs calling NIS Nodes.
 * [NEM Address Generator](https://bitbucket.org/bad_weather_corp/nem_tools/src) - Generate an address which starts with xxxx and/or ends with xxxx.
@@ -260,4 +260,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/Sat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

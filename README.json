@@ -124,7 +124,7 @@
             "open_issues": 0,
             "owner": "blockstart",
             "repo": "nem-coinbase-token-sale-api",
-            "stars": 19,
+            "stars": 18,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -179,7 +179,7 @@
             "open_issues": 1,
             "owner": "blockstart",
             "repo": "nem-coinbase-token-sale-website",
-            "stars": 11,
+            "stars": 10,
             "topics": [
               "angular",
               "blockchain",
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:55:28.892Z",
+    "last_updated": "2026-11-14T19:14:50.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects using the NEM blockchain",
